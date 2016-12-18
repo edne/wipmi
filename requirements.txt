@@ -1,0 +1,7 @@
+flask
+fiona
+geopy
+utm
+pyhton-telegram-bot
+requests
+staticmap
